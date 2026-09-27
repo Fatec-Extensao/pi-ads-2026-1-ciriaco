@@ -17,10 +17,14 @@
 ## 👥 Integrantes do Grupo
 | Nome do Aluno | GitHub / Perfil |
 | :--- | :--- |
-|Geovanna Rocha Martins Ciriaco 1 | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) | 
-| Nome Aluno 2 | [@usuario2](https://github.com/usuario2) |
-| Nome Aluno 3 | [@usuario3](https://github.com/usuario3) |
-| Nome Aluno 4 | [@usuario4](https://github.com/usuario4) |
+|Geovanna Rocha Martins Ciriaco 1 | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
+|Giulia Komatsu Gentil 2 | [@giuliagentil](https://github.com/giuliagentil) |
+|Isabela Erminia Vieira Teixeira 3 | [@isabelaerminia](https://github.com/isabelaerminia) |
+|Poliana da Silva Benedito 4 | [@eupoliana](https://github.com/eupoliana) |
+|Rafaela da Silva Cavalheiro 5 | [c-rafaela](https://github.com/c-rafaela) |
+|Yara Torres de Souza 6 | [@yaratorres99](https://github.com/yaratorres99) |
+
+
 
 ---
 
